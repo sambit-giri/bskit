@@ -24,6 +24,11 @@ This package uses the FFT-based bispectrum measurement algorithm presented e.g. 
 export PYTHONPATH=/path/to/bskit:$PYTHONPATH
 ``
 
+One can also install it using pip by running the following command::
+```
+pip install git+https://github.com/sambit-giri/bskit.git
+```
+
 ## Usage
 
 Usage instructions and a guide to the included examples can be found [here](https://github.com/sjforeman/bskit/blob/master/usage.md).
